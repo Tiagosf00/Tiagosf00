@@ -17,8 +17,8 @@ tiago = {
     programming languages: ['C/C++', 'Python', 'Matlab/Octave', 'HTML', 'Dart', 'JavaScript'],
     interests: ['Data Mining', 'Software Engineering', 'Competitive Programming'],
     projects:{
-                technological-research: 'Python Package Development for Migration between Electronic Judges',
-                scientific-research: 'Data Mining for Analysis of Trajectories of Undergraduate Students \
+                technological_research: 'Python Package Development for Migration between Electronic Judges',
+                scientific_research: 'Data Mining for Analysis of Trajectories of Undergraduate Students \
                                       at the University of Brasília',
              },
 }
