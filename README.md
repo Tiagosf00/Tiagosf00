@@ -6,7 +6,7 @@
 <p><em>Competitive Programmer studying for the <a href="https://icpc.global/">International Collegiate Programming Contest</a> <img src="https://image.winudf.com/v2/image/YWNtaWNwYy50YWxoYS5leGFtcGxlLmNvbS5hY21pY3BjX2ljb25fMF80NmZhMWZjZA/icon.png?w=170&fakeurl=1" width="30"></br>
     
 
-[![Linkedin: TiagoFernandes](https://img.shields.io/badge/-TiagoFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-souza-fernandes-7335b5117/)](https://www.linkedin.com/in/tiago-de-souza-fernandes-7335b5117/) [![GitHub Tiago](https://img.shields.io/github/followers/Tiagosf00?label=follow&style=social)](https://github.com/Tiagosf00) [![CodeForces Tiagodfs](https://run.kaist.ac.kr/badges/codeforces/tiagodfs.svg)](https://codeforces.com/profile/Tiagodfs) [![AtCoder Tiagosf](https://run.kaist.ac.kr/badges/atcoder/tiagosf.svg)](https://atcoder.jp/users/Tiagosf)
+[![Linkedin: TiagoFernandes](https://img.shields.io/badge/-TiagoFernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-souza-fernandes-7335b5117/)](https://www.linkedin.com/in/tiago-de-souza-fernandes-7335b5117/) [![GitHub Tiago](https://img.shields.io/github/followers/Tiagosf00?label=follow&style=social)](https://github.com/Tiagosf00)
 
 ### About me
 
