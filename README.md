@@ -13,7 +13,7 @@
 ```javascript
 tiago = {
     programming_languages: ['C/C++', 'Python', 'Matlab/Octave', 'JavaScript'],
-    interests: ['Data Mining', 'Software Engineering', 'Computational Geometry', 'Competitive Programming'],
+    interests: ['Software Engineering', 'Computational Geometry', 'Competitive Programming', 'Data Mining'],
     projects:{
                 technological_research: 'Python Package Development for Migration between Electronic Judges',
                 scientific_research: 'Data Mining for Analysis of Trajectories of Undergraduate Students \
